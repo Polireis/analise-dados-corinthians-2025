@@ -1,7 +1,7 @@
 # 🦅 Análise de Dados - Temporada Corinthians 2025
 
 ## 📊 Sobre o Projeto
-Este é um projeto *end-to-end* de Análise de Dados focado na temporada de 2025 do Sport Club Corinthians Paulista. O objetivo foi extrair, estruturar e analisar os dados de todos os jogos do Campeonato Paulista, Copa do Brasil e Brasileirão para gerar insights sobre o desempenho da equipe.
+Projeto pessoal *end-to-end* de Análise de Dados focado na temporada de 2025 do Corinthians. O objetivo foi extrair, estruturar e analisar os dados de todos os jogos do Campeonato Paulista, Copa do Brasil e Brasileirão para gerar insights sobre o desempenho da equipe.
 
 ## 🛠️ Ferramentas Utilizadas
 * **Banco de Dados Relacional:** SQLite (DB Browser) para criação estruturada, inserção e consulta de dados (SQL).
@@ -14,7 +14,7 @@ O banco de dados foi modelado em duas tabelas principais para garantir as boas p
 2. `jogos`: Data, Adversário, Mando de Campo, Gols Marcados, Gols Sofridos e ID do Campeonato (Chave Estrangeira).
 
 ## 📈 Principais Insights (Dashboard)
-Através do Dashboard criado no Excel, foi possível analisar:
+Dashboard criado no Excel, para analisar:
 * O percentual de Vitórias, Empates e Derrotas no ano (Aproveitamento total).
 * O desempenho da equipe jogando como Mandante (Neo Química Arena) vs. Visitante.
 * *Filtros dinâmicos* permitindo a segmentação do desempenho por campeonato específico.
