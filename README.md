@@ -23,3 +23,6 @@ Através do Dashboard criado no Excel, foi possível analisar:
 * O arquivo `.db` contém o banco de dados completo estruturado.
 * O arquivo `.csv` contém a base plana tratada e pronta para consumo.
 * O arquivo `.xlsx` contém as tabelas dinâmicas e o Dashboard final com as análises visuais.
+
+## 🖥️ Visualização do Dashboard
+![Dashboard Corinthians 2025](dashboard.png)
